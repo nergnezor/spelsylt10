@@ -55,7 +55,7 @@ class MouseJointWorld extends Forge2DWorld
     addAll(boundaries);
 
     ball = Ball(isFirstBall: true);
-    add(ball);
+    // add(ball);
     addAll(flippers);
     game.camera.viewport.add(FpsTextComponent());
     final style = TextStyle(color: Colors.red, fontSize: 24);
