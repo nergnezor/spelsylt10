@@ -1,7 +1,10 @@
+.dart_tool/
+.idea/
+build/
+web/
+test/
 
-
-# Files and directories created by flutter create -platforms= [web, linux, windows, macos, android, ios]
+analysis_options.yaml
+pubspec.lock
 .metadata
 *.iml
-pubspec.lock
-analysis_options.yaml
